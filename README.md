@@ -16,7 +16,7 @@ https://github.com/vinitcool76/cmsplugin-fb-album
 <h3><strong>How to make it work on your page:</strong></h3><br/>
 
 <strong>step 1:</strong><br/>
-add these files to the <head>
+add these files to the HEAD
 ```ruby
         <script type="text/javascript" src="assets/js/jquery.min.js"></script>
         <script type="text/javascript" src="assets/js/jquery.colorbox-min.js"></script>
