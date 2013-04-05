@@ -35,7 +35,7 @@ Where you see fitted.
 
 =======
 <strong>step 3:</strong>
-Go to the /fbalbum.js file and add you facebook page album URL there:
+Go to the /fbalbum.js file and add your facebook page album URL there:
 
 ```ruby
       //paste you fb-company album URL here. 
