@@ -3,7 +3,7 @@
 =======
 Facebook Album plugin written in javascript.
 
-The plugin shows photos on the album on a facebook page..
+The plugin shows photos on the album on a facebook page.
 
 This is an clone of the Django-CMS plugin for facebook albums of Vinitcool76, to work outside django-cms as well.<br/>
 
