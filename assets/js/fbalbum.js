@@ -1,9 +1,11 @@
 //paste you fb-company album URL here. 
 var album_url = 'ENTER FB-PAGE ALBUM URL HERE',
-uid = album_url.split('?')[1].split('.')[1];
+uid = album_url.split('?')[1].split('.')[1],
+access_token='<Enter Your Access Token>';
+
 $(document).ready(function () {
 // Ajax Request to Facebook Graph API
-var req_url = 'http://graph.facebook.com/'+uid+'/photos';
+var req_url = 'https://graph.facebook.com/'+uid+'/photos'+'?access_token='+access_token;
 
 $.ajax({
     type: "GET",
